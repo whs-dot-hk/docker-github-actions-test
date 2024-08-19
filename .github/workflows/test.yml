@@ -30,4 +30,4 @@ jobs:
         with:
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: ghcr.io/whs-dot-hk/docker-github-actions-test:latest
+          tags: ghcr.io/whs-dot-hk/docker-github-actions-test:test
